@@ -1,0 +1,49 @@
+{
+  "ResultCount": 6,
+  "Result": [
+    {
+      "SureId": "Nisa",
+      "AyetId": 163,
+      "AyetNumber": "163",
+      "Text": "Biz Nûh'a ve ondan sonra gelen peygamberlere vahyettiğimiz gibi, sana da vahyettik. İbrahim'e, İsmail'e, İshak'a, Yakub'a, torunlarına, İsa'ya, Eyyüb'e, Yûnus'a, Hârûn'a ve Süleyman'a da vahyetmiştik. Davûd'a da Zebûr vermiştik.",
+      "IsArabic": false
+    },
+    {
+      "SureId": "Enam",
+      "AyetId": 86,
+      "AyetNumber": "86",
+      "Text": "İsmail'i, Elyasa'ı, Yûnus'u ve Lût'u da hidayete erdirmiştik. Her birini âlemlere üstün kılmıştık.",
+      "IsArabic": false
+    },
+    {
+      "SureId": "Yunus",
+      "AyetId": 98,
+      "AyetNumber": "98",
+      "Text": "Yûnus'un kavminden başka, keşke (azabı görmeden) iman edip, imanı kendisine fayda veren bir tek memleket halkı olsaydı! (Yûnus'un kavmi) iman edince, dünya hayatında (sürüklenebilecekleri) rezillik azabını onlardan uzaklaştırmış ve onları belli bir zamana kadar yararlandırmıştık.",
+      "IsArabic": false
+    },
+    {
+      "SureId": "Saffat",
+      "AyetId": 139,
+      "AyetNumber": "139",
+      "Text": "Şüphesiz Yûnus da peygamberlerdendi.",
+      "IsArabic": false
+    },
+    {
+      "SureId": "Saffat",
+      "AyetId": 142,
+      "AyetNumber": "142",
+      "Text": "Böylece, Yûnus kendini kınayıp dururken balık onu yuttu.",
+      "IsArabic": false
+    },
+    {
+      "SureId": "Kalem",
+      "AyetId": 48,
+      "AyetNumber": "48",
+      "Text": "Sen, Rabbinin hükmüne sabret. Balık sahibi (Yûnus) gibi olma. Hani o, (balığın karnında) kederli bir halde Rabbine yakarmıştı.",
+      "IsArabic": false
+    }
+  ],
+  "Message": null,
+  "Details": null
+}

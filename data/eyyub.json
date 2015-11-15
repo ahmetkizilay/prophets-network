@@ -1,0 +1,33 @@
+{
+  "ResultCount": 4,
+  "Result": [{
+    "SureId": "Enam",
+    "AyetId": 84,
+    "AyetNumber": "84",
+    "Text": "Biz ona İshak'ı ve Yakub'u armağan ettik. Hepsini hidayete erdirdik. Daha önce Nûh'u da hidayete erdirmiştik. Zürriyetinden Dâvud'u, Süleyman'ı, Eyyub'u, Yûsuf'u, Mûsâ'yı ve Hârûn'u da. İyilik yapanları işte böyle mükafatlandırırız.",
+    "IsArabic": false
+  },
+  {
+    "SureId": "Enbiya",
+    "AyetId": 83,
+    "AyetNumber": "83",
+    "Text": "Eyyûb'u da hatırla. Hani o Rabbine, \"Şüphesiz ki ben derde uğradım, sen ise merhametlilerin en merhametlisisin\" diye niyaz etmişti.",
+    "IsArabic": false
+  },
+  {
+    "SureId": "Sad",
+    "AyetId": 41,
+    "AyetNumber": "41",
+    "Text": "(Ey Muhammed!) Kulumuz Eyyub'u da an. Hani o, Rabbine, \"Şeytan bana bir yorgunluk ve azap dokundurdu\" diye seslenmişti.",
+    "IsArabic": false
+  },
+  {
+    "SureId": "Sad",
+    "AyetId": 44,
+    "AyetNumber": "44",
+    "Text": "Şöyle dedik: \"Eline bir demet sap al ve onunla vur, yeminini bozma.\" Gerçekten biz Eyyûb'u sabreden bir kimse olarak bulduk. O ne güzel bir kuldu! O, Allah'a çok yönelen bir kimse idi.",
+    "IsArabic": false
+  }],
+  "Message": null,
+  "Details": null
+}

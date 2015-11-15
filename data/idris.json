@@ -1,0 +1,21 @@
+{
+  "ResultCount": 2,
+  "Result": [
+    {
+      "SureId": "Meryem",
+      "AyetId": 56,
+      "AyetNumber": "56",
+      "Text": "Kitap'ta İdris'i de an. Şüphesiz o doğru sözlü bir kimse, bir nebi idi.",
+      "IsArabic": false
+    },
+    {
+      "SureId": "Enbiya",
+      "AyetId": 85,
+      "AyetNumber": "85",
+      "Text": "İsmail'i, İdris'i ve Zülkifl'i de hatırla. Bunların hepsi sabredenlerdendi.",
+      "IsArabic": false
+    }
+  ],
+  "Message": null,
+  "Details": null
+}

@@ -1,0 +1,21 @@
+{
+  "ResultCount": 2,
+  "Result": [
+    {
+      "SureId": "Enbiya",
+      "AyetId": 85,
+      "AyetNumber": "85",
+      "Text": "İsmail'i, İdris'i ve Zülkifl'i de hatırla. Bunların hepsi sabredenlerdendi.",
+      "IsArabic": false
+    },
+    {
+      "SureId": "Sad",
+      "AyetId": 48,
+      "AyetNumber": "48",
+      "Text": "(Ey Muhammed!) İsmail, el-Yesa' ve Zülkifl'i de an. Onların her biri iyi kimselerdi.",
+      "IsArabic": false
+    }
+  ],
+  "Message": null,
+  "Details": null
+}

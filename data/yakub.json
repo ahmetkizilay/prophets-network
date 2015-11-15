@@ -1,0 +1,56 @@
+{
+  "ResultCount": 5,
+  "Result": [
+    {
+      "SureId": "Al-i İmran",
+      "AyetId": 39,
+      "AyetNumber": "39",
+      "Text": "Zekeriya mabedde namaz kılarken melekler ona, \"Allah sana, kendisinden gelen bir kelimeyi (İsa'yı) doğrulayıcı, efendi, nefsine hakim ve salihlerden bir peygamber olarak Yahya'yı müjdeler\" diye seslendiler.",
+      "IsArabic": false
+    },
+    {
+      "SureId": "Enam",
+      "AyetId": 85,
+      "AyetNumber": "85",
+      "Text": "Zekeriya'yı, Yahya'yı, İsa'yı, İlyas'ı doğru yola erdirmiştik. Bunların hepsi salih kimselerden idi.",
+      "IsArabic": false
+    },
+    {
+      "SureId": "Meryem",
+      "AyetId": 7,
+      "AyetNumber": "7",
+      "Text": "(Allah şöyle dedi:) \"Ey Zekeriyya! Haberin olsun ki biz sana Yahya adlı bir oğul müjdeliyoruz. Daha önce onun adını kimseye vermedik.\"",
+      "IsArabic": false
+    },
+    {
+      "SureId": "Meryem",
+      "AyetId": 12,
+      "AyetNumber": "12-14",
+      "Text": "(Yahya dünyaya gelip büyüyünce onu peygamber yaptık ve kendisine) \"Ey Yahya kitaba sımsıkı sarıl\" dedik. Biz ona daha çocuk iken hikmet ve katımızdan kalp yumuşaklığı ve ruh temizliği vermiştik. O, Allah'tan sakınan, anne babasına iyi davranan bir kimse idi. İsyancı bir zorba değildi.",
+      "IsArabic": false
+    },
+    {
+      "SureId": "Enbiya",
+      "AyetId": 90,
+      "AyetNumber": "90",
+      "Text": "Biz de onun duasını kabul ettik ve kendisine Yahya'yı bağışladık. Eşini de kendisi için, (doğurmaya) elverişli kıldık. Onlar gerçekten hayır işlerinde yarışırlar, (rahmetimizi) umarak ve (azabımızdan) korkarak bize dua ederlerdi. Onlar bize derin saygı duyan kimselerdi.",
+      "IsArabic": false
+    },
+    {
+      "SureId": "Yusuf",
+      "AyetId": 83,
+      "AyetNumber": "83",
+      "Text": "Yakup, \"Nefisleriniz sizi bir iş yapmağa sürükledi. Artık bana düşen, güzel bir sabırdır. Umulur ki Allah onların hepsini bana getirir. Çünkü O, hakkıyla bilendir, hüküm ve hikmet sahibidir\" dedi.",
+      "IsArabic": false
+    },
+    {
+      "SureId": "Yusuf",
+      "AyetId": 96,
+      "AyetNumbwer": "96",
+      "Text": "Müjdeci gelip gömleği Yakub'un yüzüne koyunca gözleri açılıverdi. Yakup, \"Ben size, Allah tarafından, sizin bilemeyeceğiniz şeyleri bilirim demedim mi?\" dedi.",
+      "IsArabic": false
+    }
+  ],
+  "Message": null,
+  "Details": null
+}

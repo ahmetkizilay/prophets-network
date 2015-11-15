@@ -1,0 +1,34 @@
+{
+  "name": "prophet-map",
+  "description": "Mapping reference maps for propets from Koran",
+  "version": "1.0.0",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "test": "echo 'not specified'",
+    "lint": "eslint ./*.js ./src/*.js",
+    "build": "echo 'not specified'",
+    "start": "node app.js"
+  },
+  "author": "Ahmet Kizilay",
+  "repository": {
+    "url": "https://github.com/artsince/webapp-boilerplate",
+    "type": "git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.0.15",
+    "babel-core": "^6.1.2",
+    "csv-stringify": "0.0.8"
+  },
+  "devDependencies": {
+    "babel-eslint": "^4.1.4",
+    "babel-preset-es2015": "^6.1.2",
+    "eslint": "^1.9.0"
+  },
+  "keywords": [
+  ],
+  "engines": {
+    "node": "4.2.1"
+  }
+}

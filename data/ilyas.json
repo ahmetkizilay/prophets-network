@@ -1,0 +1,28 @@
+{
+  "ResultCount": 3,
+  "Result": [
+    {
+      "SureId": "Enam",
+      "AyetId": 85,
+      "AyetNumber": "85",
+      "Text": "Zekeriya'yı, Yahya'yı, İsa'yı, İlyas'ı doğru yola erdirmiştik. Bunların hepsi salih kimselerden idi.",
+      "IsArabic": false
+    },
+    {
+      "SureId": "Saffat",
+      "AyetId": 123,
+      "AyetNumber": "123",
+      "Text": "Şüphesiz İlyas da peygamberlerden idi.",
+      "IsArabic": false
+    },
+    {
+      "SureId": "Saffat",
+      "AyetId": 130,
+      "AyetNumber": "130",
+      "Text": "İlyas'a selam olsun",
+      "IsArabic": false
+    }
+  ],
+  "Message": null,
+  "Details": null
+}

@@ -1,0 +1,20 @@
+{
+  "ResultCount": 2,
+  "Result": [{
+    "SureId": "Sad",
+    "AyetId": 48,
+    "AyetNumber": "48",
+    "Text": "(Ey Muhammed!) İsmail, el-Yesa' ve Zülkifl'i de an. Onların her biri iyi kimselerdi.",
+    "IsArabic": false
+  },
+  {
+    "SureId": "Enam",
+    "AyetId": 86,
+    "AyetNumber": "86",
+    "Text": "İsmail'i, Elyasa'ı, Yûnus'u ve Lût'u da hidayete erdirmiştik. Her birini âlemlere üstün kılmıştık.",
+    "IsArabic": false
+  }
+  ],
+  "Message": null,
+  "Details": null
+}
